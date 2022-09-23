@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+
+h2{
+    font-size: 2rem;
+    color: blue;
+    padding-top: 1rem;
+}
+
+
+article{
+    text-align: center;
+ }
+
+article p{
+    padding-inline: 2rem;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+
+
+article a img{
+    display: block;
+    right: 0;
+    left: 0;
+}
